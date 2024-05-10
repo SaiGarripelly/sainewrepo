@@ -1,0 +1,9 @@
+{
+	"name": "sgarr-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "68a5a529-d567-4c54-9fa4-f9a5e21521b2",
+		"tenantId": "2fb2a592-b29b-4e54-b5c6-a8c1ac644b37"
+	}
+}
